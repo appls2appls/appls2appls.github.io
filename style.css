@@ -17,12 +17,10 @@ button {
   transition-duration: 0.4s;
   cursor: pointer;
 }
-
 .button1 {
   background-color: #7affca; 
   color: black; 
 }
-
 .button1:hover {
   background-color: #7affca;
   color: white;
@@ -31,8 +29,15 @@ button {
   background-color: #7affca; 
   color: black; 
 }
-
 .button2:hover {
+  background-color: #7affca;
+  color: white;
+}
+.button3 {
+  background-color: #7affca; 
+  color: black; 
+}
+.button3:hover {
   background-color: #7affca;
   color: white;
 }
